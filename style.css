@@ -15,12 +15,57 @@ body {
     padding: 10px 30px;
     color: white;
     text-align: center;
-    margin: 10px 10px;
+    margin: 10px;
     float: right;
     vertical-align: middle;
     
 }
 
+.optionbutton {
+    background-color:#805215;
+    display: inline-block;
+    height: 30px;
+    width: 250px;
+    color: white;
+    text-align: center;
+    margin: auto;
+    float: center;
+}
+
+
+.aboutbutton {
+    background-color:#805215;
+    height: 30px;
+    width: 1500px;
+    color: white;
+    text-align: center;
+}
+
+
+.table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+    border-spacing: 100px 0;
+}
+
+.fieldset {
+    background-color: white;
+    height: auto;
+    width: auto;
+}
+
+.fieldsetabout {
+    background-color: white;
+    height: auto;
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header2{
+    text-align: center;
+}
 
 /*COLORS:
 Header background - #FFDBAA
